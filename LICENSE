@@ -1,21 +1,41 @@
-MIT License
+CERN Open Hardware Licence Version 2 - Weakly Reciprocal (CERN-OHL-W)
 
-Copyright (c) 2025 Umut Tuzlu
+Preamble
+CERN has developed this licence to promote collaboration among hardware designers and to provide a legal tool that supports the freedom to use, study, modify, share, and distribute hardware designs and products based on those designs.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You may use this licence if you wish to ensure that any modifications of your design that are distributed, or any products manufactured or distributed using your design, must also be available under the same licence, but you do not require that designs which merely use your licensed design as a component or library must also be licensed under the same terms.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. Definitions
+“Licence” means this CERN-OHL-W.
+“Documentation” means schematic diagrams, PCB layouts, mechanical drawings, bill of materials, design files, and other information enabling the manufacture or study of the hardware.
+“Product” means any device or physical object manufactured using the Documentation or modified Documentation.
+“Licensee” means any person or legal entity exercising rights under this Licence.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Grant of Licence
+You are granted a worldwide, royalty-free, non-exclusive licence to:
+  a) Use the Documentation to make or study Products;
+  b) Modify the Documentation, and make Products based on the modified Documentation;
+  c) Distribute the Documentation or modified Documentation, provided that such distribution includes a copy of this Licence and preserves all copyright notices.
+
+3. Reciprocity
+If you distribute modified Documentation or Products made from it, you must:
+  a) Make available, under this same Licence, the complete modified Documentation; and
+  b) Clearly state that the Documentation is modified and include the date of modification.
+
+4. No Warranty
+THE DOCUMENTATION IS PROVIDED “AS IS” WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+5. Liability
+CERN SHALL HAVE NO LIABILITY FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OF THE DOCUMENTATION OR PRODUCTS.
+
+6. Trademark and Patent
+This Licence does not grant any rights to use the names, trademarks, or logos of the authors, nor any patent rights beyond what is necessary to exercise the rights granted herein.
+
+7. Acceptance
+By using, copying, or modifying the Documentation, you accept this Licence in its entirety.
+
+---
+
+For more information, see:
+https://ohwr.org/cern_ohl
+
