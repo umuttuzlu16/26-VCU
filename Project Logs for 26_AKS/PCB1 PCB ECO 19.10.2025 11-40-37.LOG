@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=J? NewDesignator=J9
+Change Component Designator: OldDesignator=J? NewDesignator=J10
+Change Component Designator: OldDesignator=J? NewDesignator=J11
+Change Component Designator: OldDesignator=J? NewDesignator=J12
+Change Component Designator: OldDesignator=J? NewDesignator=J13
+Change Component Designator: OldDesignator=J? NewDesignator=J14
+Added Member To Class: ClassName=STM32072 Member=Component C2 0603, 0.1uF
+Added Member To Class: ClassName=STM32072 Member=Component J9 82837-2
+Added Member To Class: ClassName=STM32072 Member=Component J10 82837-2
+Added Member To Class: ClassName=STM32072 Member=Component J11 82837-2
+Added Member To Class: ClassName=STM32072 Member=Component J12 82837-2
+Added Member To Class: ClassName=STM32072 Member=Component J13 82837-2
+Added Member To Class: ClassName=STM32072 Member=Component J14 82837-2

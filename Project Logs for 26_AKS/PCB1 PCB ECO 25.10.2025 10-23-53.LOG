@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=5V_GND New Net Name=GND
+Added Member To Class: ClassName=STM32072 Member=Component C2 0603, 0.1uF
+Added Member To Class: ClassName=STM32072 Member=Component J? L-KLS1-TF-003-H1.85-R
